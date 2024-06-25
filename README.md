@@ -8,6 +8,6 @@ and more
 Game requests available soon till public 1.5 release and name and logo rebranding
 
 Under licensed with MIT License
-see https://github.com/itsskyballs/osp/license for more info
+see at the top for more info
 
 All games,assets,etc are NOT made by me,This is a port version of Google Games for Non-Google enabled Android devices(will be removed till the rebrand)
